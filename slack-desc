@@ -1,13 +1,14 @@
-k3b-i18n: k3b-i18n 0.12.15 (internationalization files for the CD Creator)
+k3b-i18n: k3b-i18n (internationalization files for the CD Creator)
 k3b-i18n:
-k3b-i18n: * Internationalization files for Africaans, Bulgarian, Brazilian,
-k3b-i18n: Bosnian, Catalan, Czech, Welsh, Danish, German, Greek, English (GB),
-k3b-i18n: Spanish, Estoniain, Basque, French, Irish, Hebrew, Hindi, Hungarian,
-k3b-i18n: Icelandic, Italian, Japanese, Lithuanian, Macedonian, Norwegian
-k3b-i18n: (Bokmål), Dutc, Norwegian (Nynorsk), Panjabi, Polish, Portuguese,
-k3b-i18n: Portuguese (Brazilian), Romanian, Russian, Northern Sami, Slovenian,
-k3b-i18n: Serbian, Swedish, Tamil, Turkish, Ukrainian and Chinese Simplified.
-k3b-i18n: * Help files in Danish, German, Spanish, Estonian, French, Italian,
+k3b-i18n:   * Internationalization files for Africaans, Bulgarian, Bengali,
+k3b-i18n: Brazilian, Bosnian, Catalan, Czech, Welsh, Danish, German, Greek,
+k3b-i18n: English (GB), Spanish, Estoniain, Basque, French, Irish, Hebrew,
+k3b-i18n: Hindi, Hungarian, Icelandic, Italian, Japanese, Khmer, Lithuanian,
+k3b-i18n: Macedonian, Malay, Norwegian (Bokmål), Low Saxon, Dutch, Norwegian
+k3b-i18n: (Nynorsk), Panjabi, Polish, Portuguese, Portuguese (Brazilian),
+k3b-i18n: Romanian, Russian, Northern Sami, Slovenian, Serbian, Serbian
+k3b-i18n: (Latin), Swedish, Tamil, Turkish, Ukrainian and Simplified Chinese.
+k3b-i18n:   * Help files in Danish, German, Spanish, Estonian, French, Italian,
 k3b-i18n: Dutch, Polish, Portuguese, Portuguese (Brazilian), Russian and
 k3b-i18n: Swedish.
 k3b-118n:
