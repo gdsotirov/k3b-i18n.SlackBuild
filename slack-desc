@@ -1,16 +1,18 @@
-k3b-i18n: k3b-i18n (internationalization files for the CD Creator)
+k3b-i18n: K3b Internationalization Files
 k3b-i18n:
-k3b-i18n:   * Internationalization files for Africaans, Bulgarian, Bengali,
-k3b-i18n: Brazilian, Bosnian, Catalan, Czech, Welsh, Danish, German, Greek,
-k3b-i18n: English (GB), Spanish, Estoniain, Basque, French, Irish, Hebrew,
-k3b-i18n: Hindi, Hungarian, Icelandic, Italian, Japanese, Khmer, Lithuanian,
-k3b-i18n: Macedonian, Malay, Norwegian (Bokmål), Low Saxon, Dutch, Norwegian
-k3b-i18n: (Nynorsk), Panjabi, Polish, Portuguese, Portuguese (Brazilian),
-k3b-i18n: Romanian, Russian, Northern Sami, Slovenian, Serbian, Serbian
-k3b-i18n: (Latin), Swedish, Tamil, Turkish, Ukrainian and Simplified Chinese.
-k3b-i18n:   * Help files in Danish, German, Spanish, Estonian, French, Italian,
-k3b-i18n: Dutch, Polish, Portuguese, Portuguese (Brazilian), Russian and
-k3b-i18n: Swedish.
-k3b-118n:
-k3b-118n: Packager: Georgi D. Sotirov <gdsotirov@dir.bg>
-k3b-118n:
+k3b-i18n: * Internationalization files for Africaans, Arabic, Bulgarian,
+k3b-i18n:   Bengali, Brazilian, Bosnian, Catalan, Czech, Welsh, Danish,
+k3b-i18n:   German, Greek, English (GB), Spanish, Estoniain, Basque,
+k3b-i18n:   Persian, Finnish, French, Irish, Galician, Hebrew, Hindi,
+k3b-i18n:   Hungarian, Icelandic, Italian, Japanese, Georgian, Lithuanian,
+k3b-i18n:   Macedonian, Malay, Norwegian (Bokmål, Low Saxon, Dutch,
+k3b-i18n:   Norwegian (Nynorsk), Punjabi, Polish, Portuguese, Portuguese
+k3b-i18n:   (Brazilian), Russian, Kinyarwanda, Northern Sami, Slovak,
+k3b-i18n:   Serbian, Serbian (Latin), Swedish, Tamil, Turkish, Ukrainian,
+k3b-i18n:   Uzbek, Simplified Chinese and Traditional Chinese.
+k3b-i18n:
+k3b-i18n: * Help files in Danish, German, Spanish, Estonian, French, Italian,
+k3b-i18n:   Dutch, Polish, Portuguese, Portuguese (Brazilian), Russian,
+k3b-i18n:   Swedish and Ukrainian.
+k3b-i18n:
+k3b-i18n: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
