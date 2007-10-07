@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# Slackware build script for K3b Translation Files
+# Slackware build script for K3b Internationalization Files
 # Written by Georgi D. Sotirov <gdsotirov@dir.bg>
 #
 
@@ -35,7 +35,12 @@ cd $SRC
 fix_source
 
 # Build the package
-./configure --prefix=/opt/kde
+CFLAGS=$SLKCFLAGS \
+CXXFLAGS=$SLKCFLAGS \
+./configure --build=i486-slackware-linux \
+            --host=i486-slackware-linux \
+            --prefix=/usr
+
 make
 make DESTDIR=$PKG install
 
